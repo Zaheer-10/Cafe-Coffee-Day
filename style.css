@@ -1,0 +1,22 @@
+img.slide {
+    height: 551px;
+    width: 1394px;
+}
+
+.two {
+    height: 457px;
+}
+
+.pic {
+    height: 15px;
+    width: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.code {
+    background-image: url(img/bck1.jpg);
+    height: 500px;
+}
